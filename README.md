@@ -1,6 +1,6 @@
 # onepageapp
 my info
-this is aout my personal information
-    
+this is about my personal information
+added new line 
 
-    
+added one more line
